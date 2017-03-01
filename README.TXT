@@ -36,10 +36,12 @@ Install and Run
  mvn install -Dmaven.test.skip=true
 
 2. RUNNING
+* go to ZEPLChallenge directory.
 * running the todo service ( ip address and port of the service are configured in "config\application.properties" file.
- java -jar ZEPLChallenge-1.0.0.jar 
+ java -jar target/ZEPLChallenge-1.0.0.jar
 
 * running the todo client for testing the service.
 cd client
-java -jar ZEPLChallenge-TodoClient-1.0.0.jar 10.30.164.132 8084 1 1
+* TodoClient [ip address of the service] [port] [concurrent threads] [number of sessions: 1 (1 session = [11 requests + 11 responses]) ]
+java -jar ZEPLChallenge-TodoClient-1.0.0.jar 127.0.0.1 8084 1 1
 

@@ -140,11 +140,11 @@ public class ToDoClient implements Runnable {
         }
     }
     public static void usage() {
-        log.error(" This is a todo client for testing a restful todo service");
-        log.error(" An argument are not a valid input");
-        log.error(" Argument number of sessions must be an integer and > 0");
-        log.error(" please usage:  TodoClient [ip address of the service] [port] [concurrent threads] [number of sessions: 1 (1 session = [11 requests + 11 responses]) ] ");
-        log.error(" exp:  TodoClient 10.30.164.132 8084 2 3");
+        log.info(" This is a todo client for testing a restful todo service");
+        log.info(" An argument are not a valid input");
+        log.info(" Argument number of sessions must be an integer and > 0");
+        log.info(" please usage:  TodoClient [ip address of the service] [port] [concurrent threads] [number of sessions: 1 (1 session = [11 requests + 11 responses]) ] ");
+        log.info(" exp:  TodoClient 127.0.0.1 8084 2 3");
         System.exit(1);
     }
     @Override

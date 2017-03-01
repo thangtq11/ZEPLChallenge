@@ -177,8 +177,10 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.zepl.challenge.ToDoServer</mainClass>
+                            <mainClass>com.zepl.challenge.ToDoServer
+                            </mainClass>
                         </manifest>
+
                     </archive>
                 </configuration>
             </plugin>
