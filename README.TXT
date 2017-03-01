@@ -9,6 +9,7 @@ README.TXT
 * doc			documents of the challenge project: api document.
 * pcap			captured files for debugging communication between todo client and the todo service. open with wireshark.
 * client		A Client for testing the todo service.
+* data          H2 embedded database directory.
 * pom.xml		for building maven project.
 * todo-challenge.md	Requirements for building project.
 * README.TXT		Project's readme

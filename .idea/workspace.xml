@@ -7,25 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f92dd44-50f6-43a6-a4ab-f747734586e5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire/surefirebooter6603496119380936954.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/ZEPLChallenge-TodoClient-1.0.0.jar" afterPath="$PROJECT_DIR$/client/ZEPLChallenge-TodoClient-1.0.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/h2filedb.mv.db" afterPath="$PROJECT_DIR$/data/h2filedb.mv.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ZEPLChallenge-1.0.0.jar" afterPath="$PROJECT_DIR$/target/ZEPLChallenge-1.0.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ZEPLChallenge-1.0.0.jar.original" afterPath="$PROJECT_DIR$/target/ZEPLChallenge-1.0.0.jar.original" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.TXT" afterPath="$PROJECT_DIR$/README.TXT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/ZEPLChallenge.log" afterPath="$PROJECT_DIR$/log/ZEPLChallenge.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/zepl/challenge/ToDoClient.java" afterPath="$PROJECT_DIR$/src/main/java/com/zepl/challenge/ToDoClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/application.properties" afterPath="$PROJECT_DIR$/target/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zepl.challenge.data.SimpleTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zepl.challenge.data.SimpleTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zepl.challenge.rest.ToDoApplicationTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zepl.challenge.rest.ToDoApplicationTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zepl.challenge.rest.ToDoRestControllerIntegrationTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zepl.challenge.rest.ToDoRestControllerIntegrationTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.zepl.challenge.data.SimpleTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.zepl.challenge.data.SimpleTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.zepl.challenge.rest.ToDoApplicationTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.zepl.challenge.rest.ToDoApplicationTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.zepl.challenge.rest.ToDoRestControllerIntegrationTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.zepl.challenge.rest.ToDoRestControllerIntegrationTest.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -288,73 +270,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ZEPLChallenge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ZEPLChallenge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ZEPLChallenge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ZEPLChallenge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ZEPLChallenge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ZEPLChallenge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="challenge" />
+              <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -931,7 +847,7 @@
       <workItem from="1487904838582" duration="37066000" />
       <workItem from="1488169236641" duration="17139000" />
       <workItem from="1488334501719" duration="904000" />
-      <workItem from="1488335526133" duration="1391000" />
+      <workItem from="1488335526133" duration="2238000" />
     </task>
     <task id="LOCAL-00001" summary="change log level to info">
       <created>1488333782228</created>
@@ -983,7 +899,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="320274000" />
+    <option name="totallyTimeSpent" value="321121000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1402,8 +1318,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.TXT">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="9" column="121" lean-forward="true" selection-start-line="9" selection-start-column="121" selection-end-line="9" selection-end-column="121" />
+        <state relative-caret-position="714">
+          <caret line="43" column="50" lean-forward="true" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
           <folding />
         </state>
       </provider>
