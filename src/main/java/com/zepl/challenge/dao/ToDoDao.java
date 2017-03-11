@@ -26,6 +26,7 @@ public class ToDoDao {
 
     /**
      * implement a singleton pattern
+     *
      * @return the singleton instance
      */
     public static ToDoDao getInstance() {
@@ -34,6 +35,7 @@ public class ToDoDao {
         }
         return instance;
     }
+
     /**
      * checking if todo and task table are already exist before creating them.
      *
@@ -73,7 +75,8 @@ public class ToDoDao {
         DB_CONNECTION = url;
         DB_USER = user;
         DB_PASSWORD = pass;
-        log.info("DB_DRIVER:" + DB_DRIVER + " DB_CONNECTION:" + DB_CONNECTION + " DB_USER:" + DB_USER + " DB_PASSWORD:" + DB_PASSWORD);
+        log.info("DB_DRIVER:" + DB_DRIVER + " DB_CONNECTION:" +
+                DB_CONNECTION + " DB_USER:" + DB_USER + " DB_PASSWORD:" + DB_PASSWORD);
         if (ToDoDao.isTablesExist() == true) return;
         Connection connection = getDBConnection();
         Statement stmt = null;

@@ -1,4 +1,4 @@
-package javabeat.net;
+package com.zepl.challenge.net;
 
 /**
  * Created by THANGTQ on 3/8/2017.

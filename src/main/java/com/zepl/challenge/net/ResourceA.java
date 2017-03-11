@@ -1,7 +1,7 @@
 /**
  * Created by THANGTQ on 3/8/2017.
  */
-package javabeat.net;
+package com.zepl.challenge.net;
 
 public class ResourceA {
     String url = "http://localhost:8080";
